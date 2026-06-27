@@ -1,0 +1,6 @@
+{
+  "name": "海洋廢棄物即時辨識與分析系統",
+  "description": "結合 AI 影像辨識技術與數據分析的海洋廢棄物辨識系統，提供即時辨識、歷史紀錄、統計分析與環保排行榜，守護我們的藍色海洋。",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
